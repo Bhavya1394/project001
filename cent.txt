@@ -1,1 +1,0 @@
-git status command is used to shows the changes to be commited.
